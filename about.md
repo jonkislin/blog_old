@@ -20,7 +20,7 @@ Curent student at Metis Data Science Bootcamp
 - statistics
 - data science
 
-#### Links #### . 
+#### Links ####
 [metis](http://thisismetis.com)  
 [society for personality and social psychology](http://spsp.org)  
 [my github profile](https://github.com/jonkislin)
