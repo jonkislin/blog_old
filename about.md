@@ -10,9 +10,10 @@ Aspiring Data Scientist and Social Psychologist
   
 ### Interests ###
 - social, political, and moral psychology
+- conservation
+- ethics, epistemology, and philosophy of science
 - linux
 - python
-- conservation
 
 #### Links ####
 [metis](http://thisismetis.com)  
