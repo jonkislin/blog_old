@@ -6,7 +6,7 @@ published: true
 ---
 
 jon kislin, b.a. psychology and philosophy  
-aspiring data ccientist and social psychologist  
+aspiring data scientist and social psychologist  
   
 ### interests ###
 - social, political, and moral psychology
