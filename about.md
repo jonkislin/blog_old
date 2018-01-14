@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-my name is jon!
+my name is jon!  
 i'm an aspiring data scientist and social psychologist  
   
 ### interests ###
