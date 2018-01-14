@@ -5,10 +5,10 @@ permalink: /about/
 published: true
 ---
 
-Jon Kislin
-BA Psychology and Philosophy, SUNY Geneseo
-Curent student at Metis Data Science Bootcamp (Jan - Apr 2018)
-Aspiring Data Scientist and Social Psychologist
+Jon Kislin  
+BA Psychology and Philosophy, SUNY Geneseo  
+Curent student at Metis Data Science Bootcamp (Jan - Apr 2018)  
+Aspiring Data Scientist and Social Psychologist  
 
 ### Topic Interests ###
 - social, political, and moral psychology
@@ -19,5 +19,6 @@ Aspiring Data Scientist and Social Psychologist
 - statistics
 - data science
 
-thisismetis.com
-spsp.org
+[metis](thisismetis.com)  
+[society for personality and social psychology](spsp.org)  
+[my github profile](https://github.com/jonkislin)
