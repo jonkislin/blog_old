@@ -7,7 +7,7 @@ published: true
 
 Jon Kislin  
 BA Psychology and Philosophy (SUNY Geneseo)  
-Aspiring Data Scientist and Social Psychologist
+Aspiring Data Scientist and Social Psychologist  
 
 Curent student at Metis Data Science Bootcamp  
   
