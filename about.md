@@ -21,4 +21,4 @@ Aspiring Data Scientist and Social Psychologist
 
 [metis](thisismetis.com)  
 [society for personality and social psychology](spsp.org)  
-[my github profile](https://github.com/jonkislin)
+[my github profile](https://github.com/jonkislin)  
