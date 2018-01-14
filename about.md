@@ -5,20 +5,13 @@ permalink: /about/
 published: true
 ---
 
-Jon Kislin  
-BA Psychology and Philosophy (SUNY Geneseo)  
+Jon Kislin, B.A. Psychology and Philosophy
 Aspiring Data Scientist and Social Psychologist  
-
-Curent student at Metis Data Science Bootcamp  
   
 ### Topic Interests ###
 - social, political, and moral psychology
-- cognitive psychology
-- computer science
 - linux
 - python
-- statistics
-- data science
 
 #### Links ####
 [metis](http://thisismetis.com)  
