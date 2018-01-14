@@ -5,13 +5,14 @@ permalink: /about/
 published: true
 ---
 
-Jon Kislin, B.A. Psychology and Philosophy
+Jon Kislin, B.A. Psychology and Philosophy  
 Aspiring Data Scientist and Social Psychologist  
   
-### Topic Interests ###
+### Interests ###
 - social, political, and moral psychology
 - linux
 - python
+- conservation
 
 #### Links ####
 [metis](http://thisismetis.com)  
