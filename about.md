@@ -4,11 +4,9 @@ title: about
 permalink: /about/
 published: true
 ---
+my name is jon!   
+i'm an aspiring data scientist and social psychologist  
 
-name: jon kislin  
-degree: b.a. psychology / philsophy  
-current: student at metis data science bootcamp
-  
 ### topics of interest ###
 - social, political, and moral psychology
 - conservation
