@@ -2,14 +2,22 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Jon Kislin
+BA Psychology and Philosophy, SUNY Geneseo
+Curent student at Metis Data Science Bootcamp (Jan - Apr 2018)
+Aspiring Data Scientist and Social Psychologist
 
-### More Information
+### Topic Interests ###
+- social, political, and moral psychology
+- cognitive psychology
+- computer science
+- linux
+- python
+- statistics
+- data science
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+thisismetis.com
+spsp.org
