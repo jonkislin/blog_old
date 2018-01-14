@@ -5,8 +5,8 @@ permalink: /about/
 published: true
 ---
 
-jon kislin, b.a. psychology and philosophy  
-aspiring data scientist and social psychologist  
+my name is jon!
+i'm an aspiring data scientist and social psychologist  
   
 ### interests ###
 - social, political, and moral psychology
