@@ -1,6 +1,6 @@
 ---
 layout: post
-title: welcome
+title: blog = {}
 published: true
 ---
 welcome to my blog!  
