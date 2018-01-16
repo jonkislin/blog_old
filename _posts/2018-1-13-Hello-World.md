@@ -1,8 +1,8 @@
 ---
 layout: post
-title: blog = { }
+title: 'blog = { }'
 published: true
 ---
 welcome to my blog! not much here yet  
 
-upcoming posts: "humility in data exploration"
+upcoming posts: ["humility in data exploration"](https://jonkislin.github.io/mta/)
