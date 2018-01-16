@@ -4,4 +4,4 @@ title: welcome
 published: true
 ---
 welcome to my blog!  
-upcoming posts: "commuting and the mta: project 01"
+upcoming posts: "humility in data exploration"
