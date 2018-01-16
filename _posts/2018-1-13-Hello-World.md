@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 13 jan 2018
+title: welcome
 published: true
 ---
 welcome to my blog!  
