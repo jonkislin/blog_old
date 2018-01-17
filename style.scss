@@ -7,6 +7,10 @@
 
 @import "reset";
 @import "variables";
+
+// Google fonts
+@import url('https://fonts.googleapis.com/css?family=Philosopher:700|Tinos');
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,7 +23,8 @@ html {
 
 body {
 	background: $white;
-  font: 16px $helvetica;
+  font: 18px $tinos;
+  line-height: 1.8em;
   color: $darkGray;
 }
 
@@ -31,12 +36,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $philosopher;
+
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  line-height: 1.2;
+  margin: 1em 0 1em;
   padding: 0;
 
   @include mobile {
@@ -45,22 +51,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 38px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 20px;
   color: $gray;
 }
 
@@ -69,7 +75,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $cerulean;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -194,7 +200,8 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $philosopher;
+  text-transform: lowercase;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -204,6 +211,8 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  text-transform: lowercase;
+
 
   @include mobile {
     margin: 3px 0;
@@ -213,7 +222,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $tinos;
   font-size: 18px;
 
   @include mobile {
@@ -228,7 +237,6 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
@@ -266,8 +274,8 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
     font-size: 15px;
+    font-weight: bold;
   }
 }
 
@@ -281,8 +289,24 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  overflow-x: none;
 }
 
+#goFast {
+  cursor: pointer;
+}
+
+.sanic {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: -50px;
+  transition: 1000ms linear;
+  transform: translateX(0vw);
+}
+.sanic.going {
+  transform: translateX(calc(100vw + 50px));
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
