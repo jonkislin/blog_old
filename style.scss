@@ -303,7 +303,7 @@ footer {
   left: -50px;
   transition: 1000ms linear;
   -webkit-transform: translateX(0vw); /* Ch <36, Saf 5.1+, iOS < 9.2, An =<4.4.4 */
-  -ms-transform: translateX(0vw)
+  -ms-transform: translateX(0vw);
   transform: translateX(0vw);
 }
 .sanic.going {
