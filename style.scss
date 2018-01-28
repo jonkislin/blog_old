@@ -9,7 +9,7 @@
 @import "variables";
 
 // Google fonts
-@import url('https://fonts.googleapis.com/css?family=inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Philosopher:700|Tinos');
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -23,7 +23,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px $inconsolata;
+  font: 18px $tinos;
   line-height: 1.8em;
   color: $darkGray;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $inconsolata;
+  font-family: $tinos;
 
   color: $darkerGray;
   font-weight: bold;
