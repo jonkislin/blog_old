@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Question soup - prologue.
+title: Question soup? (Prologue)
 published: true
 ---
 ### 2/15/18  - "Question Soup."
