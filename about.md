@@ -5,17 +5,16 @@ permalink: /about/
 published: true
 ---
 My name is Jon!  
-I'm a data scientist at [Metis](https://www.thisismetis.com) in New York City.
+I'm a data scientist in training at [Metis](https://www.thisismetis.com) in New York City.
 
-### My interests
+Topics I'm interested include:
 - social, political, and moral psychology
 - conservation
 - ethics, epistemology, and philosophy of science
 - linux
 - python
 
-### Links
-[my github](https://github.com/jonkislin)
+My projects can be found on [github](https://github.com/jonkislin).
 
 ### People who inspire me
 [linda skitka](http://lskitka.people.uic.edu/index.html)  

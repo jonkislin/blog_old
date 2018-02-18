@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Question soup, part 2
+title: Question soup? (continued)
 published: true
 ---
 ### 2/17/18_b - Machine Learning
