@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Question soup?
+title: question soup?
 published: true
 ---
 ### 2/15/18  - "Question Soup."
