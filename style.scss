@@ -301,9 +301,13 @@ footer {
   position: absolute;
   left: -50px;
   transition: 1000ms linear;
+  -webkit-transform: translateX(0vw); /* Ch <36, Saf 5.1+, iOS < 9.2, An =<4.4.4 */
+  -ms-transform: translateX(0vw);
   transform: translateX(0vw);
 }
 .sanic.going {
+  -webkit-transform: translateX(calc(100vw + 50px));
+  -ms-transform: translateX(calc(100vw + 50px));
   transform: translateX(calc(100vw + 50px));
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
